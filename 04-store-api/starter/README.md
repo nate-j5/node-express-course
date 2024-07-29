@@ -1,0 +1,15 @@
+Notes
+- This project imports a package that handles all the async errors for us 
+- When you throw an error with the async errors package -> throwing an error does this for us
+- Worked on the database connection and schema | populate.js
+- Exit out of the populate file once populate runs - its purpose is just to add values to mongo
+- Dynamic filtering in the products controller
+- How to extract the specific parameter you want for a specific route 
+- Using regex to create dynamic search when looking for values
+- sort values alphabatically (or by other measures)
+- sort by multiple values | 4:26
+- Insert a default value of sort isn't part of query parameter
+- Only display certian fields in the API response based on query parameter
+- Give user ability to limit number of records 
+- Setup pagination query params
+- Numeric Fitlering
