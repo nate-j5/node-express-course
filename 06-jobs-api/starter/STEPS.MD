@@ -1,0 +1,4 @@
+- Setup controllers
+- setup routes
+- implement connections in app.js
+- create user schema with better validation
